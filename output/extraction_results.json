@@ -1,0 +1,45 @@
+[
+  {
+    "diagnosis": "Generalized Anxiety Disorder",
+    "medications": [
+      "Medication Unnamed"
+    ],
+    "lab_values": {
+      "Thyroid Profile": "normal",
+      "Ultrasound": "normal",
+      "Electrocardiogram": "normal",
+      "Blood Pressure": "normal"
+    },
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "Anaphylaxis",
+    "medications": [
+      "Medication Unnamed"
+    ],
+    "lab_values": {
+      "None": "None"
+    },
+    "confidence": 0.75
+  },
+  {
+    "diagnosis": "Hypertrophic Lichen Planus",
+    "medications": [
+      "Medication REDACTED"
+    ],
+    "lab_values": {
+      "Routine Hematological and Biochemical Investigations": "normal"
+    },
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "Type II choledochal cyst/double GB/Type VI choledochal cyst",
+    "medications": [
+      "Medication Unnamed"
+    ],
+    "lab_values": {
+      "Imaging studies": "hypoechoic lesion located around the porta hepatis"
+    },
+    "confidence": 0.85
+  }
+]
